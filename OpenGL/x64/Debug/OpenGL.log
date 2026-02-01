@@ -1,0 +1,38 @@
+﻿  glm.cpp
+  glm.cppm
+D:\C++\game\OpenGL\OpenGL\Dependency\include\glm\glm.cppm(1,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\C++\game\OpenGL\OpenGL\Dependency\include\glm\glm.cppm(10,1): error C3378: a declaration can be exported only from a module interface unit
+D:\C++\game\OpenGL\OpenGL\Dependency\include\glm\glm.cppm(10,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\C++\game\OpenGL\OpenGL\Dependency\include\glm\glm.cppm(10,8): error C2086: 'int module': redefinition
+      D:\C++\game\OpenGL\OpenGL\Dependency\include\glm\glm.cppm(1,1):
+      see declaration of 'module'
+  
+D:\C++\game\OpenGL\OpenGL\Dependency\include\glm\glm.cppm(10,15): error C2146: syntax error: missing ';' before identifier 'glm'
+D:\C++\game\OpenGL\OpenGL\Dependency\include\glm\glm.cppm(12,1): error C3378: a declaration can be exported only from a module interface unit
+D:\C++\game\OpenGL\OpenGL\Dependency\include\glm\glm.cppm(2675,1): error C3378: a declaration can be exported only from a module interface unit
+  Light.cpp
+  main.cpp
+D:\C++\game\OpenGL\OpenGL\main.cpp(173,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\C++\game\OpenGL\OpenGL\main.cpp(204,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\C++\game\OpenGL\OpenGL\main.cpp(205,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\C++\game\OpenGL\OpenGL\main.cpp(209,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\C++\game\OpenGL\OpenGL\main.cpp(210,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\C++\game\OpenGL\OpenGL\main.cpp(211,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\C++\game\OpenGL\OpenGL\main.cpp(212,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\C++\game\OpenGL\OpenGL\main.cpp(353,42): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\C++\game\OpenGL\OpenGL\main.cpp(888,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\C++\game\OpenGL\OpenGL\main.cpp(894,88): warning C4267: 'argument': conversion from 'size_t' to 'GLint', possible loss of data
+D:\C++\game\OpenGL\OpenGL\main.cpp(896,57): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Model.cpp
+D:\C++\game\OpenGL\OpenGL\Model.cpp(51,46): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+D:\C++\game\OpenGL\OpenGL\Model.cpp(159,56): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+D:\C++\game\OpenGL\OpenGL\Model.cpp(159,56): warning C4267:         with
+D:\C++\game\OpenGL\OpenGL\Model.cpp(159,56): warning C4267:         [
+D:\C++\game\OpenGL\OpenGL\Model.cpp(159,56): warning C4267:             _Ty=unsigned int
+D:\C++\game\OpenGL\OpenGL\Model.cpp(159,56): warning C4267:         ]
+  Sphere.cpp
+D:\C++\game\OpenGL\OpenGL\Sphere.cpp(27,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\C++\game\OpenGL\OpenGL\Sphere.cpp(28,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\C++\game\OpenGL\OpenGL\Sphere.cpp(32,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\C++\game\OpenGL\OpenGL\Sphere.cpp(151,46): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  Generating Code...

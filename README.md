@@ -2,11 +2,7 @@
 
 A high-performance 3D graphics simulation implemented in **C++** and **OpenGL**, demonstrating advanced rendering techniques including environment mapping, real-time lighting interaction, and transparency blending.
 
-<p align="center">
-  <img src="path/to/your/screenshot.png" alt="OpenGL Render Output" width="600">
-  <br>
-  <em>(Add a screenshot of your project here to showcase the skybox and spheres)</em>
-</p>
+<img width="797" height="632" alt="image" src="https://github.com/user-attachments/assets/28e4dc7c-717b-4071-b73f-3103d9a5279e" />
 
 ## 🚀 Features
 
